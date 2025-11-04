@@ -1,3 +1,6 @@
+### Olá eu sou Lucas Araujo 👋
+###  Venha conhecer mais um pouco de mim🫡: 
+
 [![Instagram](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ara/) 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Lucas.Ara)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/l.araujo._/)
@@ -6,7 +9,7 @@
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucascapyb&show_icons=true&theme=dracula)
 
-### Tecnologias que eu uso no dia!🤓
+### Tecnologias que eu uso no dia!(não ironicamente)☝️🤓
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -15,4 +18,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </div>
-
+<div><br/>
+    "Focado em transformar desafios em oportunidades de crescimento e inovação.🐦‍🔥"
+</div>
