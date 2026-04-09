@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lucas Araujo 👋
 ### Sou um entusiasta da tecnologia apaixonado por transformar desafios em soluções criativas e inovação. Seja codando ou explorando novas ideias, estou sempre em busca de evolução (e talvez de umas capivaras pelo caminho! 🌿).
-
+---
 ### Venha conhecer mais um pouco de mim :D
 
 [![Instagram](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ara/) 
@@ -9,6 +9,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.instagram.com/l.araujo._/?next=%2F)
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Capybara_Dog)
 
+---
 
 ### Tecnologias que eu uso no dia!(não ironicamente)☝️🤓
 
@@ -23,3 +24,7 @@
 <div><br/>
     "Focado em transformar desafios em oportunidades de crescimento e inovação.🐦‍🔥"
 </div>
+---
+E-Mail - lascruzofc@gmail.com
+Linkedin - in/lucas-ara
+
