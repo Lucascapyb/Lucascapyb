@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ara/) 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Lucas.Ara)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/l.araujo._/)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.instagram.com/l.araujo._/?next=%2F)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)]([https://www.instagram.com/l.araujo._/?next=%2F](https://www.twitch.tv/capybara_dog))
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Capybara_Dog)
 
 ---
@@ -24,7 +24,9 @@
 <div><br/>
     "Focado em transformar desafios em oportunidades de crescimento e inovação.🐦‍🔥"
 </div>
+
 ---
-E-Mail - lascruzofc@gmail.com
+
+E-Mail - lascruzofc@gmail.com <br/>
 Linkedin - in/lucas-ara
 
