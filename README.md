@@ -27,6 +27,6 @@
 
 ---
 
-E-Mail - lascruzofc@gmail.com <br/>
-Linkedin - in/lucas-ara
+### E-Mail - lascruzofc@gmail.com <br/>
+### Linkedin - in/lucas-ara
 
