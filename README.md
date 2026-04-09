@@ -7,7 +7,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.instagram.com/l.araujo._/?next=%2F)
 [![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@Capybara_Dog)
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucascapyb&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu uso no dia!(não ironicamente)☝️🤓
 
