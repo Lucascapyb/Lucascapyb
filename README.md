@@ -1,5 +1,7 @@
-### Olá eu sou Lucas Araujo 👋
-###  Venha conhecer mais um pouco de mim🫡: 
+### Olá, eu sou o Lucas Araujo 👋
+### Sou um entusiasta da tecnologia apaixonado por transformar desafios em soluções criativas e inovação. Seja codando ou explorando novas ideias, estou sempre em busca de evolução (e talvez de umas capivaras pelo caminho! 🌿).
+
+### Venha conhecer mais um pouco de mim :D
 
 [![Instagram](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ara/) 
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Lucas.Ara)
