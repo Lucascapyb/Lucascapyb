@@ -1,5 +1,7 @@
 ### Olá, eu sou o Lucas Araujo 👋
+
 ### Sou um estudante de Ciência da Computação focado no desenvolvimento de sistemas eficientes e no estudo de arquiteturas de software. Atualmente, concentro meus esforços em Sistemas Distribuídos, IA Generativa e fluxos de Cloud Computing, sempre buscando transformar problemas teóricos complexos em implementações práticas e escaláveis.
+
 No momento, estou desenvolvendo meu TCC focado em Arquitetura de Máquina de Estados para IA Generativa, integrando conceitos de automação com ambientes de simulação 2.5D. Valorizo código limpo, fundamentos sólidos de engenharia e soluções que sejam fáceis de manter.
 Fora do terminal, sou entusiasta de pixel art, marketing estratégico e, claro, um grande fã de capivaras. 🌿
 ---
