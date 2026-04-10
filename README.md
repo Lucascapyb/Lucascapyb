@@ -34,8 +34,10 @@ Ferramentas & Ambientes: AWS, Arquiteturas 2.5D para jogos/simulações e versio
     <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </div>
+
 ### Vamos trocar uma ideia?
 Estou sempre aberto a colaborar em projetos interessantes, discutir arquitetura de sistemas ou falar sobre o mercado de tecnologia (e marketing!). Se você está trabalhando em algo legal ou quer trocar figurinhas, sinta-se à vontade para chamar.
+
 <div><br/>
     "Focado em transformar desafios em oportunidades de crescimento e inovação.🐦‍🔥"
 </div>
