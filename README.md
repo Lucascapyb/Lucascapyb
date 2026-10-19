@@ -45,7 +45,7 @@ Outside the terminal, I'm into pixel art, strategic marketing, and, of course, a
 ### Let's talk!
 I'm always open to collaborating on interesting projects, discussing system architecture, or chatting about the tech industry (and marketing!). If you're working on something cool or just want to exchange ideas, feel free to reach out.
 
-> *"Focused on turning challenges into opportunities for growth and innovation."* 🐦‍🔥
+> *"Focused on turning challenges into opportunities for growth and innovation."* 
 </div>
 
 ---
